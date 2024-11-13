@@ -112,12 +112,25 @@
 // Console.ReadLine();
 
 // //____________________________________________________________________________
-Console.WriteLine("gissa siffra från 1 till 10");
-int slu = Random.Shared.Next(1,10);
-string sla = Console.ReadLine
+// Console.WriteLine("gissa siffra från 1 till 10");
+// int slu = Random.Shared.Next(1, 10);
+// bool stra = false;
 
-if 
+// while (stra == false)
+
+// {
+// int slta = 0;
+// string sla = Console.ReadLine();
+
+// int.TryParse(sla, out slta);
+
+//     if (slu == slta)
+//     {
+//         Console.WriteLine("du gissa det wow!");
+//         stra = true;
+//     }
+//     Console.WriteLine("fel");
 
 
-
-
+// }
+// Console.ReadLine();
